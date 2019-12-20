@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'MTS Sans';
+    src: url('MTSSans-Regular.eot');
+    src: url('MTSSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('MTSSans-Regular.woff2') format('woff2'),
+        url('MTSSans-Regular.woff') format('woff'),
+        url('MTSSans-Regular.ttf') format('truetype'),
+        url('MTSSans-Regular.svg#MTSSans-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MTS Sans UltraWide';
+    src: url('MTSSans-UltraWide.eot');
+    src: url('MTSSans-UltraWide.eot?#iefix') format('embedded-opentype'),
+        url('MTSSans-UltraWide.woff2') format('woff2'),
+        url('MTSSans-UltraWide.woff') format('woff'),
+        url('MTSSans-UltraWide.ttf') format('truetype'),
+        url('MTSSans-UltraWide.svg#MTSSans-UltraWide') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'MTS Sans';
+    src: url('MTSSans-Bold.eot');
+    src: url('MTSSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('MTSSans-Bold.woff2') format('woff2'),
+        url('MTSSans-Bold.woff') format('woff'),
+        url('MTSSans-Bold.ttf') format('truetype'),
+        url('MTSSans-Bold.svg#MTSSans-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MTS Sans';
+    src: url('MTSSans-Medium.eot');
+    src: url('MTSSans-Medium.eot?#iefix') format('embedded-opentype'),
+        url('MTSSans-Medium.woff2') format('woff2'),
+        url('MTSSans-Medium.woff') format('woff'),
+        url('MTSSans-Medium.ttf') format('truetype'),
+        url('MTSSans-Medium.svg#MTSSans-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MTS Sans';
+    src: url('MTSSans-Black.eot');
+    src: url('MTSSans-Black.eot?#iefix') format('embedded-opentype'),
+        url('MTSSans-Black.woff2') format('woff2'),
+        url('MTSSans-Black.woff') format('woff'),
+        url('MTSSans-Black.ttf') format('truetype'),
+        url('MTSSans-Black.svg#MTSSans-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+

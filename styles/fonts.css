@@ -1,0 +1,9 @@
+@font-face{
+
+font-family: 'MTSSans';
+src: url('../fonts/MTSSans-Regular.otf');
+src: url('../fonts/MTSSans-Regular.otf?iefix') format('otf');
+font-weight: normal;
+font-style: normal;
+
+}
